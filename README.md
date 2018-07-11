@@ -1,4 +1,6 @@
 # hello-world
-little repo
+litle repo
 
-Try to Hello World!
+Try to Alloha!
+
+It's a great Git ~ yo
